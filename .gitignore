@@ -1,0 +1,24 @@
+# Archivos temporales
+*.tmp
+*.pyc
+__pycache__
+
+# Entorno virtual
+.venv/
+env/
+venv/
+
+# Archivos de configuración
+.idea/
+config.ini
+
+# Logs
+logs/
+
+# Paquetes de distribución
+dist/
+build/
+
+# Otros archivos
+README.md
+LICENSE
